@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/c9/d6/9b/c9d69b5445d70d44e7adb88fff4f767e.jpg)]
 <h1 align="center">Hi 👋, I'm Ishimwe christian</h1>
 <h3 align="center">A passionate Software Engineer from Rwanda</h3>
-<img align="right" src="https://i.pinimg.com/originals/11/eb/c1/11ebc17d29ee2f78d16142a0b3f59ea8.png" width="400" alt="coding"/>
+<img align="right" src="https://i.pinimg.com/originals/11/eb/c1/11ebc17d29ee2f78d16142a0b3f59ea8.png" width="300" alt="coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishimwe-chriss&label=Profile%20views&color=0e75b6&style=flat" alt="ishimwe-chriss" /> </p>
 
